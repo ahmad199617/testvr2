@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="7.0.4" id="node1" apprev="19982">
+  <input leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="640" height="640" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <level predecode="0" width="640" height="640" preload="0"/>
+    <level predecode="1" width="320" height="320" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="2">
+    <start projection="4" fov="100" pan="0" tilt="0"/>
+    <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata latitude="" author="" source="" description="" copyright="" info="" comment="" title="" nodeid="node1" tags="Desktop" heading="0" customnodeid="" longitude="" datetime=""/>
+  <hotspots smoothmovement="0" wordwrap="1" width="180" height="20">
+    <label border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" borderradius="1" borderalpha="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
+    <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomfov="40" zoomout="0" enabled="1" delay="none" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomafterinfov="140" type="crossdissolve" zoomoutpause="1" zoomin="0"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+  <control lockedkeyboard="0" invertwheel="0" zoomcentercursor="1" rubberband="0" contextprojections="0" speedwheel="1" hideabout="0" simulatemass="1" invertcontrol="1" lockedmouse="0" lockedkeyboardzoom="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextfullscreen="1" lockedwheel="0"/>
+  <projectuserdata author="" tags="" description="" copyright="" comment="" title=""/>
+</panorama>
